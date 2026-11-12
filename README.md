@@ -3,7 +3,7 @@
 [![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://go.dev/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-This educational repository features a simple expense tracker demonstrating the fundamentals of the [Go](https://go.dev/) programming language:
+This educational repository features a simple expense tracker demonstrating some fundamentals of the [Go](https://go.dev/) programming language:
 
 - The anatomy of a Go program
 - Variables and zero values
